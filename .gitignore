@@ -1,0 +1,26 @@
+# Foundry
+cache/
+out/
+lib/
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+
+
+# Node
+node_modules/
+package-lock.json
+yarn.lock
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Broadcast
+broadcast/
