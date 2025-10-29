@@ -17,7 +17,7 @@ A decentralized bank smart contract that stores all deposits as USDC and integra
 
 ## 📝 Contract Details
 
-![Deploy Sepolia](./image/DeploySepolia.png)
+![Deploy Sepolia](image/DeploySepolia.png)
 
 **Deployed on:** Sepolia Testnet  
 **Address:** `0xd307e41b2E580302E4c02a35d4ad59899d06b5fa`  
